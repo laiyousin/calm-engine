@@ -2,6 +2,7 @@
 
 **CalmEngine** is a personalized productivity tool designed to help users plan a peaceful, emotionally supportive day. It uses AI to generate a one-day schedule based on your current mood, favorite relaxing activities, and prioritized tasks.
 
+![CalmEngine Screenshot](./src/assets/CalmEngine-preview.png)
 ---
 
 ## Demo
